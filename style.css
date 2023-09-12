@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+
+.warna-nav:hover{
+    color: #1938D1 !important;
+}
+
+.jumbotron{
+    font-size: 3rem;
+    font-weight: 700 !important; 
+}
+
+.bg-about{
+    background: #155DE9 !important;
+}
+
+.square-box{
+    max-width: 600px;
+    max-height: 600px;
+    border: 1px solid #333;
+}
