@@ -15,11 +15,30 @@
 }
 
 .bg-about{
-    background: #155DE9 !important;
+    background: #0D6EFD !important;
 }
 
 .square-box{
     max-width: 600px;
     max-height: 600px;
     border: 1px solid #333;
+}
+.konten-tengah-1{
+    margin-top: 300px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.section-4{
+    margin: 100px 300px;
+}
+
+.section-5{
+    margin: 200px 300px;
+}
+
+.logo-contact{
+    height: 60px;
+    margin-left: 100px;
 }
