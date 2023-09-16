@@ -42,3 +42,13 @@
     height: 60px;
     margin-left: 100px;
 }
+
+.foto-port{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px ;
+}
+
+.active {
+    color: #0D6EFD !important;
+}
